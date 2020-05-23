@@ -10,4 +10,4 @@ Organizes critical functions for hashtable databases ordered by linked lists.
 6. `values()` - returns an arraylist with all unique values in the hashtable, in order.
 7. `iterator()` - Java iterator which can iterate through entries of the hashtable, used in other functions.
 
-The `results.txt` file shows demonstrations of all the above in a functional hashtable.
+The `results.txt` file is the output of `results.java` which shows demonstrations of all the above in a functional hashtable.
